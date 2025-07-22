@@ -4,7 +4,7 @@
 # weather-application/
 ├── index.html
 ├── style.css
-├── app.js
+├── script.js
 ├── README.md
 ├── assets/
 │   └── (images, icons, etc.)

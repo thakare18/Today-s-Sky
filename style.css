@@ -23,7 +23,7 @@ html{
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background: url(https://t4.ftcdn.net/jpg/03/04/01/79/360_F_304017914_06ibltT3eX4UID80q0dSUybLsrfzUubL.jpg);
+    background: url(/backgroudIMG.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
