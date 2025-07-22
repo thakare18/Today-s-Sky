@@ -35,4 +35,4 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 
 # Contact
 : Prathamesh Thakare
-For questions or feedback, open an issue or email: @prathameshthakare9677@gmail.com
+For questions or feedback, open an issue or email: prathameshthakare9677@gmail.com
