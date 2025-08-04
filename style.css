@@ -13,9 +13,10 @@
 
 html{
     font-size: 10px;
-    /* Now 1rem = 10px */
+    /* Now 1rem = 10px */  
 }
 
+/* box2 */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -23,7 +24,7 @@ html{
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background: url(/backgroudIMG.jpg);
+    background: url(/backgroud1IMG.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
